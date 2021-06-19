@@ -33,8 +33,7 @@ Uma empresa que comercializa réplicas de veículos em tamanho miniaturizados es
 **- Quais os 5 maiores clientes?** quantityOrdered, priceEach, customerNumber.<br/>
 
 ### Arquivos anexados:
-[Modelagem Dimensional](https://github.com/SAPOnFire/Final/blob/main/Docs/ModelagemDimensional.pdf)
-[Modelo de Negócio](https://github.com/SAPOnFire/Final/blob/main/Docs/Modelo%20de%20Negocio.xlsx)
-[Modelo de Negócio](https://github.com/SAPOnFire/Final/blob/main/Docs/Modelo%20de%20Negocio.xlsx)
-[CSV do banco de dados relacional](https://github.com/SAPOnFire/Final/blob/main/Docs/VendaProdutosClassicModels.csv)
-
+[Modelagem Dimensional](https://github.com/SAPOnFire/Final/blob/main/Docs/ModelagemDimensional.pdf)<br/>
+[Modelo de Negócio](https://github.com/SAPOnFire/Final/blob/main/Docs/Modelo%20de%20Negocio.xlsx)<br/>
+[Modelo de Negócio](https://github.com/SAPOnFire/Final/blob/main/Docs/Modelo%20de%20Negocio.xlsx)<br/>
+[CSV do banco de dados relacional](https://github.com/SAPOnFire/Final/blob/main/Docs/VendaProdutosClassicModels.csv)<br/>
