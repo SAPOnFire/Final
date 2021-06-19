@@ -1,5 +1,14 @@
 # Desafio Final - Academia Accenture SAP BW - Turma01 - Grupo 04 (SAP ON FIRE) 
 
+### Equipe:
+
+DANIEL GUEDES
+GENESIO PEREIRA
+HIGOR MELO
+LAERSON CASTRO
+MARCUS FERNANDES
+RORRAS NEVES
+
 
 ### Visão Geral:
 
@@ -13,6 +22,7 @@ Uma empresa que comercializa réplicas de veículos em tamanho miniaturizados es
 **- DOCUMENTAÇÃO DOS METADADOS:** Criação da documentação dos metados; Criação do Modelo Dimensional. <br/>
 **- CRIAÇÃO DO MODELO FÍSICO:** Criação do Cubo analítico; Dimensões e Fatos; Inserção dos objetos. <br/>
 **- IMPORTAÇÃO DOS DADOS:** ETL.<br/>
+
 
 ### Solicitações do cliente e atributos necessários para apoiar as tomadas de decisão:
 
